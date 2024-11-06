@@ -3,6 +3,7 @@
 Move è un'applicazione innovativa che consente la prenotazione di mezzi di trasporto elettrici. Nata con l'obiettivo di promuovere una mobilità sostenibile, condivisa e accessibile, Move rende facile integrare il trasporto ecologico nella vita quotidiana. L'app offre una varietà di veicoli, tra cui bici, scooter e monopattini elettrici, per un'esperienza di spostamento pratica e rispettosa dell'ambiente
 
 # LINK
+https://codepen.io/miriamtruiolo/pen/VwoEPMm
 
 # FUNZIONALITA'
 

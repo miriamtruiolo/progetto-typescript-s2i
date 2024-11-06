@@ -5,6 +5,7 @@ Move è un'applicazione innovativa che consente la prenotazione di mezzi di tras
 # LINK
 https://codepen.io/miriamtruiolo/pen/VwoEPMm
 
+
 # FUNZIONALITA'
 
 I mezzi sono parcheggiati liberamente in città e possono essere utilizzati da residenti e turisti. Per accedere ai veicoli, basta scaricare l'app, attivare la geolocalizzazione e prenotare il mezzo disponibile più vicino. 
